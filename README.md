@@ -1,8 +1,9 @@
 # IT-Projects for programming beginners (future professionals)
 
 ## Homework till 27. March 2017
-1. Find a solution for **Ex 1** and **Ex 2** from the [homework sheet](homework-20170327.pdf)
-2. Watch **lesson 3** of the course "Intro to Java: Functional Programming" on udacity (www.udacity.com)
+1. Watch **lesson 1+2** of the course "Intro to Java: Functional Programming" on udacity (www.udacity.com) and try to solve some of the examples in the Problemset!
+2. Implement Exercise 1, 2 and 3 from the exercise sheet Marcel posted in the Slack-Channel!
+
 
 ## Homework till 20. March 2017
 Watch the following two videos. Please *make notes* if something is not clear or if you have further questions.
