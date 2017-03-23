@@ -12,3 +12,7 @@ Watch the following two videos. Please *make notes* if something is not clear or
 ## Links
 - Java SE Development Kit (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - IntelliJ IDEA (https://www.jetbrains.com/idea/download)
+
+## Useful Tutorials with Exercises
+- Java Programming Tutorial Exercises on Java Basics (https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html)
+
