@@ -19,4 +19,4 @@ Watch the following two videos. Please *make notes* if something is not clear or
 - The Java™ Tutorials (Original Oracle Documentation) (https://docs.oracle.com/javase/tutorial/java/)
 - A good Tutorial with examples and flowcharts representing algorithms (Javatpoint) (http://www.javatpoint.com/java-tutorial)
 - Java ist auch eine Insel von Christian Ullenboom: Das umfassende Handbuch (Deutsch) (http://openbook.rheinwerk-verlag.de/javainsel9/index.htm#_top)
-
+- Introduction to Programming in Java: a textbook for a first course in computer science for the next generation of scientists and engineers (http://introcs.cs.princeton.edu/java/home/)
