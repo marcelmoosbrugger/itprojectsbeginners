@@ -14,6 +14,10 @@ Watch the following two videos. Please *make notes* if something is not clear or
 - Java SE Development Kit (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - IntelliJ IDEA (https://www.jetbrains.com/idea/download)
 
+## Our Main Courses
+- Java Programming Basics (Beginners): (https://www.udacity.com/course/java-programming-basics--ud282)
+- Intro to Java Programming (Advanced): (https://www.udacity.com/course/intro-to-java-programming--cs046)
+
 ## Useful Tutorials with Exercises
 - Java Programming Tutorial Exercises on Java Basics (https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html)
 - The Java™ Tutorials (Original Oracle Documentation) (https://docs.oracle.com/javase/tutorial/java/)
